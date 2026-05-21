@@ -12,5 +12,3 @@ Hey, I'm Srujana :)<br>Second-year CS student who loves turning ideas into real-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lakshmi-srujana&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
