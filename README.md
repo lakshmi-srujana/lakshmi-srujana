@@ -1,56 +1,14 @@
-<div align="center">
+# 💫 About Me:
+Hey, I'm Srujana :)<br>Third-year CS student who loves turning ideas into real-world tech.<br>IEEE Chair — built and led a student branch, organized events, and created tech communities.<br>I enjoy blending creativity with code — whether it's AI projects, problem-solving, or building something impactful.<br>Currently diving into:- Machine Learning & AI, DSA (because we love pain ), Backend & system thinking.<br>Goal: Build projects that actually matter<br>Fun fact: I believe good tech = useful + creative + slightly overengineered.<br>Open to collaborations, ideas, and cool projects!
 
-<img src="hero.svg" width="100%" alt="Lakshmi Srujana: turning ideas into real-world tech" />
 
-<br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-srujana-645535312/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pvlsrujana@gmail.com) 
 
-<a href="https://www.linkedin.com/in/lakshmi-srujana-645535312/">linkedin</a> &nbsp;·&nbsp;
-<a href="mailto:pvlsrujana@gmail.com">email</a>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-</div>
+![Streak](https://streak-stats.demolab.com?user=lakshmi-srujana&theme=tokyonight&random=12345)
 
-<br>
-
-### about
-
-```python
-srujana = {
-    "studying": "B.Tech CS @ SIT Hyderabad",
-    "leading":  ["IEEE Student Branch", "IEEE CS Chapter"],
-    "research": "NRSC / ISRO",
-    "into":     ["machine learning", "backend", "system thinking"],
-    "goal":     "projects that actually matter",
-    "open_to":  ["collabs", "ideas", "cool projects"],
-}
-```
-
-<br>
-
-### highlights
-
-<img src="highlights.svg" width="100%" alt="CodHer 2026 2nd runner-up, NRSC / ISRO research, IEEE CS UPE Award 2025" />
-
-<br>
-
-### projects
-
-<a href="https://github.com/lakshmi-srujana/REPO-NAME"><img src="project-reefsense.svg" width="32%" alt="ReefSense" /></a>
-<a href="https://github.com/lakshmi-srujana/REPO-NAME"><img src="project-cropsense.svg" width="32%" alt="CropSense" /></a>
-<a href="https://github.com/lakshmi-srujana/REPO-NAME"><img src="project-aeternaiq.svg" width="32%" alt="AeternaIQ" /></a>
-
-<br>
-
-### stack
-
-<img src="stack.svg" width="100%" alt="Tech stack" />
-
-<br>
-
-### now
-
-```diff
-+ building ML projects with real-world impact
-! grinding DSA
-! learning backend + system design
-# long-term: ML engineer in Japan
-```
+---
+[![](https://visitcount.itsvg.in/api?id=lakshmi-srujana&icon=0&color=0)](https://visitcount.itsvg.in)
