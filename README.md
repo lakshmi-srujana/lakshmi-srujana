@@ -1,82 +1,80 @@
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│               L A K S H M I   S R U J A N A                │
-│                                                            │
-│   Machine Learning  ·  Software Engineering  ·  Research   │
-│          B.Tech CS, SIT Hyderabad  ·  IEEE Chair           │
-│                                                            │
-│        useful + creative + slightly overengineered         │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
+<h1 align="center">🌸 Lakshmi Srujana 🌸</h1>
+
+<p align="center">
+  <i>machine learning &nbsp;·&nbsp; backend &nbsp;·&nbsp; building things that matter</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lakshmi-srujana-645535312/">linkedin</a> &nbsp;✦&nbsp;
+  <a href="mailto:pvlsrujana@gmail.com">email</a>
+</p>
+
+<p align="center">· · · · · · · · · ·</p>
+
+### ☁️ about
+
+> third-year CS student who loves turning ideas into real-world tech.<br>
+> IEEE Chair. built and led a student branch, organised events, created tech communities.<br>
+> blending creativity with code. good tech = **useful + creative + slightly overengineered** ✨
+
+```python
+srujana = {
+    "studying": "B.Tech CS @ SIT Hyderabad",
+    "leading":  ["IEEE Student Branch", "IEEE CS Chapter"],
+    "research": "NRSC / ISRO",
+    "into":     ["machine learning", "backend", "system thinking"],
+    "goal":     "projects that actually matter",
+    "open_to":  ["collabs", "ideas", "cool projects"],
+}
 ```
 
-### ◆ Profile
+<p align="center">· · · · · · · · · ·</p>
 
-```yaml
-focus:      Machine Learning, Backend, System Thinking
-building:   AI projects that actually matter
-leading:    IEEE Student Branch (Chair), IEEE CS Chapter (Founding Chair)
-research:   NRSC / ISRO
-learning:   DSA, system design
-next:       ML Engineer in Japan
-open_to:    collaborations, ideas, cool projects
-```
+### ✨ highlights
 
-### ◆ Projects
+| | |
+|:--|:--|
+| 🥉 | **2nd runner-up**, CodHer 2026 (ACM, Anna University) with AeternaIQ |
+| 🎖️ | **IEEE CS Upsilon Pi Epsilon Award**, 2025 |
+| 🏛️ | **Founding Chair**, IEEE CS Chapter &nbsp;·&nbsp; **Chair**, IEEE Student Branch |
+| 🛰️ | **Research** experience with NRSC / ISRO |
 
-```text
-projects/
-├── ReefSense      satellite imagery + bioacoustics → reef health
-│   └── PyTorch · Python · Google Earth Engine
-│
-├── CropSense      satellite-based crop-stress detection
-│   └── Python · Google Earth Engine · scikit-learn
-│
-└── AeternaIQ      CodHer 2026 · 2nd runner-up
-    └── FastAPI · React · Next.js
-```
+<p align="center">· · · · · · · · · ·</p>
 
-### ◆ Timeline
+### 🪻 projects
 
-```text
-*  2026  CodHer 2026 · 2nd runner-up · AeternaIQ
-|
-*  2025  IEEE CS Upsilon Pi Epsilon Award
-|
-*  2024  Founding Chair, IEEE CS Chapter
-|        Chair, IEEE Student Branch
-|
-*  2024  B.Tech CS begins · SIT Hyderabad
-```
+| project | what it does | built with |
+|:--|:--|:--|
+| **[ReefSense](https://github.com/lakshmi-srujana/REPO-NAME)** | satellite imagery + bioacoustics for coral reef health | `PyTorch` `Earth Engine` |
+| **[CropSense](https://github.com/lakshmi-srujana/REPO-NAME)** | satellite-based crop-stress detection | `Python` `scikit-learn` |
+| **[AeternaIQ](https://github.com/lakshmi-srujana/REPO-NAME)** | CodHer 2026, 2nd runner-up | `FastAPI` `React` `Next.js` |
 
-### ◆ Stack
+<p align="center">· · · · · · · · · ·</p>
 
-```text
-stack/
-├── languages   Python · Java · JavaScript · HTML · CSS
-├── ml          PyTorch · TensorFlow · Keras · scikit-learn
-├── data        Pandas · NumPy · Matplotlib · Google Earth Engine
-├── backend     FastAPI · Node.js · MySQL · Supabase
-├── frontend    React · Next.js
-└── tools       Git · GitHub · Arduino · Canva
-```
+### 🌷 stack
 
-### ◆ Now
+| | |
+|:--|:--|
+| **languages** | `Python` `Java` `JavaScript` `HTML` `CSS` |
+| **ml & data** | `PyTorch` `TensorFlow` `Keras` `scikit-learn` `Pandas` `NumPy` `Matplotlib` |
+| **backend** | `FastAPI` `Node.js` `MySQL` `Supabase` |
+| **frontend** | `React` `Next.js` |
+| **tools** | `Git` `GitHub` `Google Earth Engine` `Arduino` `Canva` |
+
+<p align="center">· · · · · · · · · ·</p>
+
+### 🤍 now
 
 ```diff
 + building ML projects with real-world impact
-+ leading IEEE at SIT Hyderabad
 ! grinding DSA
-! learning backend
+! learning backend + system design
+# long-term: ML engineer in Japan
 ```
 
-### ◆ Connect
+<p align="center">· · · · · · · · · ·</p>
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│  linkedin   linkedin.com/in/lakshmi-srujana-645535312        │
-│  email      pvlsrujana@gmail.com                             │
-│  status     open to collaborations                           │
-╰──────────────────────────────────────────────────────────────╯
-```
+<p align="center">
+  <i>open to collaborations, ideas, and cool projects</i><br><br>
+  ✦ &nbsp;useful + creative + slightly overengineered&nbsp; ✦
+</p>
