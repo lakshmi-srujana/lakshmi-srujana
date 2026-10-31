@@ -1,14 +1,116 @@
-# 💫 About Me:
-Hey, I'm Srujana :)<br>Third-year CS student who loves turning ideas into real-world tech.<br>IEEE Chair — built and led a student branch, organized events, and created tech communities.<br>I enjoy blending creativity with code — whether it's AI projects, problem-solving, or building something impactful.<br>Currently diving into:- Machine Learning & AI, DSA (because we love pain ), Backend & system thinking.<br>Goal: Build projects that actually matter<br>Fun fact: I believe good tech = useful + creative + slightly overengineered.<br>Open to collaborations, ideas, and cool projects!
+# 👋 Hey, I'm Lakshmi Srujana
 
+```bash
+$ whoami
+srujana
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-srujana-645535312/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pvlsrujana@gmail.com) 
+$ cat about.txt
+Third-year CS student who loves turning ideas into real-world tech.
+IEEE Chair. Built and led a student branch, organised events,
+created tech communities.
+Blending creativity with code: AI projects, problem-solving,
+building something impactful.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-![Streak](https://streak-stats.demolab.com?user=lakshmi-srujana&theme=tokyonight&random=12345)
+$ echo $PHILOSOPHY
+useful + creative + slightly overengineered
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lakshmi-srujana&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 💫 About Me
+
+```python
+class Srujana:
+    def __init__(self):
+        self.education = "B.Tech CS @ Symbiosis Institute of Technology, Hyderabad"
+        self.leading   = ["IEEE Student Branch (Chair)",
+                          "IEEE CS Chapter (Founding Chair)"]
+        self.research  = "NRSC / ISRO"
+        self.exploring = ["Machine Learning & AI",
+                          "DSA (because we love pain)",
+                          "Backend & system thinking"]
+        self.goal      = "Build projects that actually matter"
+        self.open_to   = ["Collaborations", "Ideas", "Cool projects"]
+
+    def philosophy(self):
+        return "useful + creative + slightly overengineered"
+```
+
+---
+
+## 🏆 Highlights
+
+```yaml
+achievements:
+  - 2nd Runner-up, CodHer 2026 (ACM chapter, Anna University) with AeternaIQ
+  - IEEE CS Upsilon Pi Epsilon Award 2025
+  - Research experience with NRSC / ISRO
+leadership:
+  - Founding Chair, IEEE CS Chapter, SIT Hyderabad
+  - Chair, IEEE Student Branch, SIT Hyderabad
+```
+
+---
+
+## 🚀 Featured Projects
+
+```json
+[
+  {
+    "name": "ReefSense",
+    "about": "Satellite imagery + bioacoustics for coral reef health classification",
+    "stack": ["Python", "PyTorch", "Google Earth Engine"],
+    "repo": "github.com/lakshmi-srujana/REPO-NAME"
+  },
+  {
+    "name": "CropSense",
+    "about": "Satellite-based crop-stress detection with ML",
+    "stack": ["Python", "Google Earth Engine", "scikit-learn"],
+    "repo": "github.com/lakshmi-srujana/REPO-NAME"
+  },
+  {
+    "name": "AeternaIQ",
+    "about": "CodHer 2026, 2nd runner-up",
+    "stack": ["FastAPI", "React", "Next.js"],
+    "repo": "github.com/lakshmi-srujana/REPO-NAME"
+  }
+]
+```
+
+---
+
+## 💻 Tech Stack
+
+```yaml
+languages:  [Python, Java, JavaScript, HTML5, CSS3]
+ml_data:    [PyTorch, TensorFlow, Keras, scikit-learn, Pandas, NumPy, Matplotlib]
+web:        [FastAPI, React, Next.js, Node.js]
+databases:  [MySQL, Supabase]
+tools:      [Git, GitHub, Google Earth Engine, Arduino, Canva]
+```
+
+---
+
+## 🎯 Currently
+
+```diff
++ Building ML projects with real-world impact
++ Grinding DSA
++ Learning backend and system design
+# Long-term goal: ML engineer in Japan
+```
+
+---
+
+## 🤝 Let's Connect
+
+```bash
+$ cat contact.txt
+linkedin : linkedin.com/in/lakshmi-srujana-645535312
+email    : pvlsrujana@gmail.com
+status   : open to collaborations, ideas, and cool projects
+```
+
+```text
+"Good tech = useful + creative + slightly overengineered." ⚡
+```
