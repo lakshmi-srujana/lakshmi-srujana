@@ -1,116 +1,83 @@
-# 👋 Hey, I'm Lakshmi Srujana
-
-```bash
-$ whoami
-srujana
-
-$ cat about.txt
-Third-year CS student who loves turning ideas into real-world tech.
-IEEE Chair. Built and led a student branch, organised events,
-created tech communities.
-Blending creativity with code: AI projects, problem-solving,
-building something impactful.
-
-$ echo $PHILOSOPHY
-useful + creative + slightly overengineered
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│               L A K S H M I   S R U J A N A                │
+│                                                            │
+│   Machine Learning  ·  Software Engineering  ·  Research   │
+│          B.Tech CS, SIT Hyderabad  ·  IEEE Chair           │
+│                                                            │
+│        useful + creative + slightly overengineered         │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
 
----
-
-## 💫 About Me
-
-```python
-class Srujana:
-    def __init__(self):
-        self.education = "B.Tech CS @ Symbiosis Institute of Technology, Hyderabad"
-        self.leading   = ["IEEE Student Branch (Chair)",
-                          "IEEE CS Chapter (Founding Chair)"]
-        self.research  = "NRSC / ISRO"
-        self.exploring = ["Machine Learning & AI",
-                          "DSA (because we love pain)",
-                          "Backend & system thinking"]
-        self.goal      = "Build projects that actually matter"
-        self.open_to   = ["Collaborations", "Ideas", "Cool projects"]
-
-    def philosophy(self):
-        return "useful + creative + slightly overengineered"
-```
-
----
-
-## 🏆 Highlights
+### ◆ Profile
 
 ```yaml
-achievements:
-  - 2nd Runner-up, CodHer 2026 (ACM chapter, Anna University) with AeternaIQ
-  - IEEE CS Upsilon Pi Epsilon Award 2025
-  - Research experience with NRSC / ISRO
-leadership:
-  - Founding Chair, IEEE CS Chapter, SIT Hyderabad
-  - Chair, IEEE Student Branch, SIT Hyderabad
+focus:      Machine Learning, Backend, System Thinking
+building:   AI projects that actually matter
+leading:    IEEE Student Branch (Chair), IEEE CS Chapter (Founding Chair)
+research:   NRSC / ISRO
+learning:   DSA, system design
+next:       ML Engineer in Japan
+open_to:    collaborations, ideas, cool projects
 ```
 
----
-
-## 🚀 Featured Projects
-
-```json
-[
-  {
-    "name": "ReefSense",
-    "about": "Satellite imagery + bioacoustics for coral reef health classification",
-    "stack": ["Python", "PyTorch", "Google Earth Engine"],
-    "repo": "github.com/lakshmi-srujana/REPO-NAME"
-  },
-  {
-    "name": "CropSense",
-    "about": "Satellite-based crop-stress detection with ML",
-    "stack": ["Python", "Google Earth Engine", "scikit-learn"],
-    "repo": "github.com/lakshmi-srujana/REPO-NAME"
-  },
-  {
-    "name": "AeternaIQ",
-    "about": "CodHer 2026, 2nd runner-up",
-    "stack": ["FastAPI", "React", "Next.js"],
-    "repo": "github.com/lakshmi-srujana/REPO-NAME"
-  }
-]
-```
-
----
-
-## 💻 Tech Stack
-
-```yaml
-languages:  [Python, Java, JavaScript, HTML5, CSS3]
-ml_data:    [PyTorch, TensorFlow, Keras, scikit-learn, Pandas, NumPy, Matplotlib]
-web:        [FastAPI, React, Next.js, Node.js]
-databases:  [MySQL, Supabase]
-tools:      [Git, GitHub, Google Earth Engine, Arduino, Canva]
-```
-
----
-
-## 🎯 Currently
-
-```diff
-+ Building ML projects with real-world impact
-+ Grinding DSA
-+ Learning backend and system design
-# Long-term goal: ML engineer in Japan
-```
-
----
-
-## 🤝 Let's Connect
-
-```bash
-$ cat contact.txt
-linkedin : linkedin.com/in/lakshmi-srujana-645535312
-email    : pvlsrujana@gmail.com
-status   : open to collaborations, ideas, and cool projects
-```
+### ◆ Projects
 
 ```text
-"Good tech = useful + creative + slightly overengineered." ⚡
+projects/
+├── ReefSense      satellite imagery + bioacoustics → reef health
+│   └── PyTorch · Python · Google Earth Engine
+│
+├── CropSense      satellite-based crop-stress detection
+│   └── Python · Google Earth Engine · scikit-learn
+│
+└── AeternaIQ      CodHer 2026 · 2nd runner-up
+    └── FastAPI · React · Next.js
+```
+
+### ◆ Timeline
+
+```text
+*  2026  CodHer 2026 · 2nd runner-up · AeternaIQ
+|
+*  2025  IEEE CS Upsilon Pi Epsilon Award
+|
+*  2024  Founding Chair, IEEE CS Chapter
+|        Chair, IEEE Student Branch
+|
+*  2024  B.Tech CS begins · SIT Hyderabad
+```
+
+### ◆ Stack
+
+```text
+stack/
+├── languages   Python · Java · JavaScript · HTML · CSS
+├── ml          PyTorch · TensorFlow · Keras · scikit-learn
+├── data        Pandas · NumPy · Matplotlib · Google Earth Engine
+├── backend     FastAPI · Node.js · MySQL · Supabase
+├── frontend    React · Next.js
+└── tools       Git · GitHub · Arduino · Canva
+```
+
+### ◆ Now
+
+```diff
++ building ML projects with real-world impact
++ leading IEEE at SIT Hyderabad
+! grinding DSA
+! learning backend and system design
+# long-term: ML engineer in Japan
+```
+
+### ◆ Connect
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│  linkedin   linkedin.com/in/lakshmi-srujana-645535312        │
+│  email      pvlsrujana@gmail.com                             │
+│  status     open to collaborations                           │
+╰──────────────────────────────────────────────────────────────╯
 ```
