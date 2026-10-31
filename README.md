@@ -34,7 +34,7 @@ srujana = {
 
 ### projects
 
-<a href="https://github.com/lakshmi-srujana/REPO-NAME"><img src="assets/project-reefsense.svg" width="32%" alt="ReefSense" /></a>
+<a href="https://github.com/lakshmi-srujana/reefsense"><img src="assets/project-reefsense.svg" width="32%" alt="ReefSense" /></a>
 <a href="https://github.com/lakshmi-srujana/REPO-NAME"><img src="assets/project-cropsense.svg" width="32%" alt="CropSense" /></a>
 <a href="https://github.com/lakshmi-srujana/REPO-NAME"><img src="assets/project-aeternaiq.svg" width="32%" alt="AeternaIQ" /></a>
 
