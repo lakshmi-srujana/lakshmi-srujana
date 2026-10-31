@@ -68,8 +68,7 @@ stack/
 + building ML projects with real-world impact
 + leading IEEE at SIT Hyderabad
 ! grinding DSA
-! learning backend and system design
-# long-term: ML engineer in Japan
+! learning backend
 ```
 
 ### ◆ Connect
