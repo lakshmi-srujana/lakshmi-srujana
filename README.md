@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Lakshmi Srujana: turning ideas into real-world tech" />
+<img src="hero.svg" width="100%" alt="Lakshmi Srujana: turning ideas into real-world tech" />
 
 <br>
 
@@ -28,21 +28,21 @@ srujana = {
 
 ### highlights
 
-<img src="assets/highlights.svg" width="100%" alt="CodHer 2026 2nd runner-up, NRSC / ISRO research, IEEE CS UPE Award 2025" />
+<img src="highlights.svg" width="100%" alt="CodHer 2026 2nd runner-up, NRSC / ISRO research, IEEE CS UPE Award 2025" />
 
 <br>
 
 ### projects
 
-<a href="https://github.com/lakshmi-srujana/reefsense"><img src="assets/project-reefsense.svg" width="32%" alt="ReefSense" /></a>
-<a href="https://github.com/lakshmi-srujana/REPO-NAME"><img src="assets/project-cropsense.svg" width="32%" alt="CropSense" /></a>
-<a href="https://github.com/lakshmi-srujana/REPO-NAME"><img src="assets/project-aeternaiq.svg" width="32%" alt="AeternaIQ" /></a>
+<a href="https://github.com/lakshmi-srujana/REPO-NAME"><img src="project-reefsense.svg" width="32%" alt="ReefSense" /></a>
+<a href="https://github.com/lakshmi-srujana/REPO-NAME"><img src="project-cropsense.svg" width="32%" alt="CropSense" /></a>
+<a href="https://github.com/lakshmi-srujana/REPO-NAME"><img src="project-aeternaiq.svg" width="32%" alt="AeternaIQ" /></a>
 
 <br>
 
 ### stack
 
-<img src="assets/stack.svg" width="100%" alt="Tech stack" />
+<img src="stack.svg" width="100%" alt="Tech stack" />
 
 <br>
 
